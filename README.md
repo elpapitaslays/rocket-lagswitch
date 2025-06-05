@@ -59,8 +59,13 @@ Install Python 3.10+ and then install dependencies:
 
 ```bash
 pip install pyqt5 psutil keyboard
-▶️ Running
+```
+or
+```bash
+pip install -r requirements.txt
+```
 
+▶️ Running
 python main.py
 ⚠️ Admin privileges may be required to simulate network lag properly.
 
@@ -87,8 +92,9 @@ Created by elpapitaslays with ❤️
 
 📦 Packaging (optional)
 To convert to .exe (Windows):
-
+```bash
 pip install pyinstaller
-pyinstaller --noconfirm --windowed --icon=assets/icon.ico main.py
+pyinstaller --onefile main.py
+```
 Feel free to open issues or PRs for feedback and improvements!
-Contact: [your.email@example.com]
+Contact: x.com/elpepasdev
