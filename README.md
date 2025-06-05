@@ -1,4 +1,4 @@
-# 🚀 Rocket League LagSwitch - Python Edition
+# 🚀 Rocket League LagSwitch
 
 A **professional-grade, customizable LagSwitch tool** designed specifically for Rocket League.  
 Built with Python and PyQt5.
@@ -11,16 +11,16 @@ Built with Python and PyQt5.
 
 ## 🔧 Features
 
-- 🎮 **Designed for Rocket League**  
-- 💻 **Real-time network traffic manipulation**  
-- 🖥️ **Modern animated GUI with neon-inspired design**  
-- 🧠 **Network usage stats (live upload/download)**  
-- 🎛️ **Custom lag duration slider (100ms – 3000ms)**  
-- ⌨️ **Configurable hotkey (default: F8)**  
-- 🗜️ **Compact Mode toggle**  
-- 📊 **Dark mode with smooth gradients and shadows**  
-- 🧲 **System tray minimization support**  
-- ✅ **Tested on Windows 10 & 11**
+- 🎮 **Designed for Rocket League**
+- 💻 **Real-time network traffic manipulation**
+- 🖥️ **Modern animated GUI with neon-inspired design**
+- 🧠 **Network usage stats (live upload/download)**
+- 🎛️ **Custom lag duration slider (100ms – 3000ms)**
+- ⌨️ **Configurable hotkey (default: F8)**
+- 🗜️ **Compact Mode toggle**
+- 📊 **Dark mode with smooth gradients and shadows**
+- 🧲 **System tray minimization support**
+- ✅ **Tested on Windows 11**
 
 ---
 
@@ -66,7 +66,9 @@ pip install -r requirements.txt
 ```
 
 ▶️ Running
+```bash
 python main.py
+```
 ⚠️ Admin privileges may be required to simulate network lag properly.
 
 ⚙️ Customization
@@ -96,5 +98,5 @@ To convert to .exe (Windows):
 pip install pyinstaller
 pyinstaller --onefile main.py
 ```
-Feel free to open issues or PRs for feedback and improvements!
+Feel free to open issues or PR for feedback and improvements.
 Contact: x.com/elpepasdev
