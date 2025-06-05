@@ -28,15 +28,18 @@ Built with Python and PyQt5.
 ```bash
 RocketLeagueLagSwitch/
 ├── core/
-│ └── traffic_controller.py # Controls network delay logic
+│ └── traffic_controller.py
 ├── gui/
-│ └── main_window.py # Full GUI and interaction logic
+│ └── main_window.py
 ├── utils/
-│ ├── network_stats.py # Real-time network monitoring
-│ └── process_utils.py # Rocket League process detection
+│ ├── network_stats.py
+│ └── process_utils.py
 ├── assets/
-│ └── icon.png # App icon for system tray
-├── main.py # Entry point of the application
+│ ├── screenshot.png
+│ ├── full.png
+│ └── compact.png
+├── config.py
+├── main.py
 └── README.md
 ```
 
