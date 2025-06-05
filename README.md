@@ -1,7 +1,7 @@
 # 🚀 Rocket League LagSwitch - Python Edition
 
 A **professional-grade, customizable LagSwitch tool** designed specifically for Rocket League.  
-Built with Python and PyQt5, this tool simulates network lag to help **Psyonix test anti-lag measures** and ensure fair play for all.
+Built with Python and PyQt5.
 
 <p align="center">
   <img src="assets/screenshot.png" alt="GUI Screenshot" width="450" />
