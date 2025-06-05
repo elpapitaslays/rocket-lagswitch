@@ -71,7 +71,7 @@ python main.py
 ```
 ⚠️ Admin privileges may be required to simulate network lag properly.
 
-⚙️ Customization
+## ⚙️ Customization
 Hotkey: Enter a new key (e.g., F9, Ctrl+Shift+L) in the text input
 
 Delay: Drag the slider to choose delay in milliseconds
@@ -80,19 +80,19 @@ Compact Mode: Click “🗜️ Compact Mode” to toggle a smaller layout
 
 System Tray: Minimize the app and restore via tray icon
 
-🧪 Use Case
+## 🧪 Use Case
 This LagSwitch was developed for internal testing purposes only to help game developers detect and prevent unfair network manipulation tactics in Rocket League.
 Do not use this in online matches or for malicious purposes.
 
-🔐 Legal Disclaimer
+## 🔐 Legal Disclaimer
 This software is intended strictly for educational and testing purposes.
 We do not condone the use of lag-switching in competitive environments.
 Use responsibly and only with explicit authorization from the relevant game or network owner.
 
-💡 Credits
+## 💡 Credits
 Created by elpapitaslays with ❤️
 
-📦 Packaging (optional)
+## 📦 Packaging (optional)
 To convert to .exe (Windows):
 ```bash
 pip install pyinstaller
